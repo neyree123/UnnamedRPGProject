@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ninit\\onedrive\\documents\\unreal projects\\unnamedrpgproject\\plugins\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotools.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ninit\\onedrive\\documents\\unreal projects\\unnamedrpgproject\\intermediate\\build\\win64\\x64\\unnamedrpgeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\ninit\\onedrive\\documents\\unreal projects\\unnamedrpgproject\\plugins\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\visualstudiotools\\definitions.visualstudiotools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

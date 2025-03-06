@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ninit/OneDrive/Documents/Unreal Projects/UnnamedRPGProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ninit/OneDrive/Documents/Unreal Projects/UnnamedRPGProject/Content/Maps/Minimal_Default.umap",
+				"C:/Users/ninit/OneDrive/Documents/Unreal Projects/UnnamedRPGProject/Content/Blueprints/BP_Item.uasset"
+			]
+		}
+	]
+}
