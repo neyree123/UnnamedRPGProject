@@ -9,6 +9,8 @@
 
 class UCapsuleComponent;
 class USkeletalMeshComponent;
+class USpringArmComponent;
+class UCameraComponent;
 
 UCLASS()
 class UNNAMEDRPG_API ABird : public APawn
@@ -28,10 +30,20 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	void MoveFoward( float value );
+	void Turn(float value);
+	void LookUp(float value);
 
 private:	
 	UPROPERTY(VisibleAnywhere);
 	UCapsuleComponent* Capsule;
+
 	UPROPERTY(VisibleAnywhere);
 	USkeletalMeshComponent* BirdMesh;
+
+	UPROPERTY(VisibleAnywhere);
+	USpringArmComponent* SpringArm;
+
+	UPROPERTY(VisibleAnywhere);
+	UCameraComponent* Camera;
 };

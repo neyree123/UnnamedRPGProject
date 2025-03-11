@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.gitattributes" />
     <None Include="..\..\.vsconfig" />
     <None Include="..\..\gitignore" />
     <None Include="..\..\shadertoolsconfig.json" />

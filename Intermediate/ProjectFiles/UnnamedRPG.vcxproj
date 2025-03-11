@@ -518,6 +518,7 @@
     <None Include="..\..\Source\UnnamedRPG.Target.cs"/>
     <None Include="..\..\Source\UnnamedRPGEditor.Target.cs"/>
     <None Include="..\..\.editorconfig"/>
+    <None Include="..\..\.gitattributes"/>
     <None Include="..\..\.vsconfig"/>
     <None Include="..\..\gitignore"/>
     <None Include="..\..\shadertoolsconfig.json"/>
